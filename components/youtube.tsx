@@ -18,7 +18,7 @@ export default function YouTube() {
                             tour virtual, tips properti, dan konten menarik lainnya.
                         </p>
                         <Link
-                            href="https://www.youtube.com/@SamaraGrup"
+                            href="https://www.youtube.com/@SapphireGrup"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="youtube-button"

@@ -118,15 +118,15 @@ export default function Footer() {
                     </div>
 
                     <div className="footer-social">
-                        <Link href="https://www.instagram.com/samaragriyaofficial" target="_blank" rel="noopener noreferrer" className="footer-social-link">
+                        <Link href="https://www.instagram.com/sapphiregrahaofficial/" target="_blank" rel="noopener noreferrer" className="footer-social-link">
                             <Instagram className="footer-social-icon" />
                             <span className="sr-only">Instagram</span>
                         </Link>
-                        <Link href="https://www.facebook.com/profile.php?id=61572800044348" target="_blank" rel="noopener noreferrer" className="footer-social-link">
+                        <Link href="https://www.facebook.com/sapphiregrahaofficial" target="_blank" rel="noopener noreferrer" className="footer-social-link">
                             <Facebook className="footer-social-icon" />
                             <span className="sr-only">Facebook</span>
                         </Link>
-                        <Link href="https://www.youtube.com/@SamaraGrup" target="_blank" rel="noopener noreferrer" className="footer-social-link">
+                        <Link href="https://www.youtube.com/@SapphireGrup" target="_blank" rel="noopener noreferrer" className="footer-social-link">
                             <Youtube className="footer-social-icon" />
                             <span className="sr-only">YouTube</span>
                         </Link>

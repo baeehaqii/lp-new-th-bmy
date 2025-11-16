@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-1_converted_jwkkgi.avif",
       title: "Hunian Modern di Lokasi Strategis Bumiayu",
       description:
         "Nyaman untuk ditinggali, ideal untuk masa depan Anda.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
       title: "Dekat ke Berbagai Pusat Aktivitas Kota",
       description: "Semua kebutuhan harian bisa dijangkau dalam waktu singkat.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825387/2_6_-_Photo.jpeg_sbnhu8.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       title: "Lingkungan yang Rapi dan Tenang",
       description: "Kawasan tertata untuk kenyamanan hidup setiap hari.",
     },

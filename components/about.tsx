@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271527/bmy-4_converted_u2mqrd.avif"
                 alt="Sapphire Townhouse Bumiayu"
                 width={600}
                 height={450}
@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Town House Bumiayu</h2>
               <p className="about-description">
-                Sapphire Town House Bumiayu adalah perumahan Bumiayu yang mengutamakan kemudahan mobilitas, kenyamanan lingkungan, dan prospek jangka panjang. Berlokasi di Jl. Pancurawis No.9–2 Pagenjahan, Kalierang, Kec. Bumiayu, hunian ini memberi Anda akses cepat ke aktivitas kota, suasana kawasan yang rapi dan tenang, serta nilai yang terus tumbuh seiring berkembangnya area sekitar. Semua dirancang untuk Anda yang ingin tinggal praktis hari ini, sekaligus punya manfaat yang berlanjut di masa depan.
+                Sapphire Town House Bumiayu adalah perumahan Bumiayu yang mengutamakan kemudahan mobilitas, kenyamanan lingkungan, dan prospek jangka panjang. Berlokasi di Jl. Pancurawis No.9–2 Pagenjahan, Kalierang, Kec. Bumiayu, hunian ini memberi Anda akses cepat ke aktivitas kota, suasana kawasan yang rapi dan tenang, serta nilai yang terus tumbuh seiring berkembangnya area sekitar. 
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
@@ -97,7 +97,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Town House Bumiayu</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif"
+                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271528/bmy-2_converted_qdfibn.avif"
                   alt="Sapphire Townhouse Bumiayu"
                   width={700}
                   height={400}
@@ -106,7 +106,7 @@ export default function About() {
               </div>
               <div className="modal-description">
                 <p>
-                  Sapphire Town House Bumiayu adalah perumahan Bumiayu yang mengutamakan kemudahan mobilitas, kenyamanan lingkungan, dan prospek jangka panjang. Berlokasi di Jl. Pancurawis No.9–2 Pagenjahan, Kalierang, Kec. Bumiayu, hunian ini memberi Anda akses cepat ke aktivitas kota, suasana kawasan yang rapi dan tenang, serta nilai yang terus tumbuh seiring berkembangnya area sekitar.
+                  Sapphire Town House Bumiayu adalah perumahan Bumiayu yang mengutamakan kemudahan mobilitas, kenyamanan lingkungan, dan prospek jangka panjang. Berlokasi di Jl. Pancurawis No.9–2 Pagenjahan, Kalierang, Kec. Bumiayu, hunian ini memberi Anda akses cepat ke aktivitas kota, suasana kawasan yang rapi dan tenang, serta nilai yang terus tumbuh seiring berkembangnya area sekitar. Semua dirancang untuk Anda yang ingin tinggal praktis hari ini, sekaligus punya manfaat yang berlanjut di masa depan.
                 </p>
 
                 <h3 className="modal-subtitle">Keunggulan Lokasi</h3>

@@ -343,8 +343,8 @@ export default function Properties() {
     {
       id: 1,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013557/Screenshot_2025-11-01_at_23.08.24_hqnwkz.avif",
       name: "Tipe 35/84",
@@ -359,8 +359,8 @@ export default function Properties() {
     {
       id: 2,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013555/Screenshot_2025-11-01_at_23.08.02_fjiwox.avif",
       name: "Tipe 40/84",
@@ -375,8 +375,8 @@ export default function Properties() {
     {
       id: 3,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013556/Screenshot_2025-11-01_at_23.08.31_u9xvko.avif",
       name: "Tipe 52/84",
@@ -391,8 +391,8 @@ export default function Properties() {
     {
       id: 4,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013556/Screenshot_2025-11-01_at_23.08.16_l0pgda.avif",
       name: "Tipe 53/84",
@@ -407,8 +407,8 @@ export default function Properties() {
     {
       id: 5,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013556/Screenshot_2025-11-01_at_23.08.09_nnqc94.avif",
       name: "Tipe 55/114",
@@ -423,8 +423,8 @@ export default function Properties() {
     {
       id: 6,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013573/Screenshot_2025-11-01_at_23.08.43_fworj1.avif",
       name: "Tipe 68/126",
@@ -439,8 +439,8 @@ export default function Properties() {
     {
       id: 7,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271528/bmy-2_converted_qdfibn.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1763271527/bmy-3_converted_edemha.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013557/Screenshot_2025-11-01_at_23.08.38_id8ffo.avif",
       name: "Tipe 75/126",
@@ -986,24 +986,6 @@ export default function Properties() {
               >
                 Simulasi KPR
               </button>
-              <button
-                onClick={() => setModalTab('progres')}
-                style={{
-                  padding: '12px 0',
-                  border: 'none',
-                  backgroundColor: 'transparent',
-                  fontSize: '14px',
-                  fontWeight: modalTab === 'progres' ? '700' : '500',
-                  color: modalTab === 'progres' ? '#831016' : '#94a3b8',
-                  cursor: 'pointer',
-                  borderBottom: modalTab === 'progres' ? '2px solid #831016' : 'none',
-                  transition: 'all 0.2s',
-                  fontFamily: 'inherit',
-                  marginBottom: '-1px'
-                }}
-              >
-                Progres Pembangunan
-              </button>
             </div>
 
             <div className="modal-content">
@@ -1054,9 +1036,6 @@ export default function Properties() {
                       </div>
                     </div>
 
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
-
                     <div className="modal-cta">
                       <Link
                         href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Samara%20Asri%20Wiradadi"
@@ -1078,9 +1057,7 @@ export default function Properties() {
                   onTahunChange={setKprTahun}
                   onBungaChange={setKprBunga}
                 />
-              ) : (
-                <ConstructionProgress />
-              )}
+              ) : null}
             </div>
           </div>
         </div>

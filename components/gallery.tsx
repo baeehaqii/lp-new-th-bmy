@@ -15,26 +15,26 @@ export default function Gallery() {
   // Data gambar-gambar yang ada di gallery
   const galleryImages = [
     {
-      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271528/bmy-2_converted_qdfibn.avif",
       alt: "Modern luxury home exterior",
       type: "image",
     },
     {
-      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825387/2_6_-_Photo.jpeg_sbnhu8.avif",
+      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271527/bmy-4_converted_u2mqrd.avif",
       alt: "Modern luxury home pool",
       type: "image",
     },
     {
-      src: "https://www.instagram.com/reel/DKgY1FlxRCD/",
+      src: "https://www.instagram.com/reel/DJJmaMEzr3J/?igsh=MTNvNjR4eDRodGl0Zw%3D%3D",
       alt: "Instagram Reel 1",
       type: "video",
-      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
+      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271527/bmy-3_converted_edemha.avif",
     },
     {
-      src: "https://www.instagram.com/reel/DJ9EUqeB_B3/",
+      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271527/bmy-1_converted_jwkkgi.avif",
       alt: "Instagram Reel 2",
-      type: "video",
-      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825387/2_6_-_Photo.jpeg_sbnhu8.avif",
+      type: "image",
+      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1763271527/bmy-1_converted_jwkkgi.avif",
     },
 
   ]
